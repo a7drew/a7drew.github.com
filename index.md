@@ -40,6 +40,6 @@ Here's a sample "posts list".
 
 ## To-Do
 
-Configure this site.
+Configure this site and fix compilation.
 
 
